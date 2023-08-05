@@ -58,3 +58,12 @@ Basicamente vc cria este template com umn arquivo de texto simples e adiciona es
  Para saber mais sobre este serviço acesse: 
     
   * [AWS CodeDeploy](https://aws.amazon.com/pt/codedeploy/)
+
+
+## AWS CodePipeline
+
+É um serviço totalmente gerenciavel de entrega contínua **(delivery service)**, que ajuda você a automatizar a automatizar suas pipelines de deploy. Este serviço automatiza os processos de **Build, test, deploy, scaling, entre outros**. 
+
+### Importante
+
+    Você não tem um investimento inicial ou seja **upfront fees**(CAPEX), que é o dinheiro que vc teria que fazer para provisionar a aplicação. 
