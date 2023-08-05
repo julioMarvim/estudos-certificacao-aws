@@ -58,6 +58,7 @@ A Nota para aprovação deve ser >= A 70 pts.
 
 # Domain 3: Technology
 
-<p>Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo o que tange à infraestrutura da AWS.</p>
+<p>Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo conhecer como funcionam as principais ferramentas fornecidas pela nuvem na AWS.</p>
 
 * [Infraestrutura Global da AWS](./technology/global-infra.md)
+* [Como escolher uma Região da AWS](./technology/choosing-region.md)
