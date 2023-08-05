@@ -35,3 +35,12 @@ e Gestores de modo geral. De certa forma, esta certificação é direcionada a p
 *  Duração de 90 minutos, 60 questões
 *  Custo 100 USD*
 *  Presencial ou Online
+
+## Quais os temas abordados na ACP
+
+* Definções da nuvem.
+* Compreender e explicar o modelo de reponsabilidade compartilhada da AWS.
+* Compreender as práticas recomendadas de segurança dentro da AWS Cloud
+* Compreender os custos, e economia e as praticas de cobrança dentro da AWS Cloud.
+* Descrever e apontar os principaos serviços da AWS, inclindo computação, rede, banco de dados e armazenamento.
+* Identificar os serviços da AWS para casos de uso comuns.
