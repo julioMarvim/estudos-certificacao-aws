@@ -1,7 +1,7 @@
 # Estudos para certificação AWS
 Este repositório é destinado a compartilhamento das minhas anotações para me preparar para o exame de certificação da AWS.
 
-## Como estudar
+## Como Estudar
 Esta prova, espera que o candidato tenha conhecimento sobre alguns pontos principais da nuvem AWS: 
 
 * 1 - Cloud Concepts 
