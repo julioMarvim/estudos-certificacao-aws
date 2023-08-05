@@ -19,3 +19,15 @@ Basicamente, o usuário precisa se preocupar apenas em fazer o upload do código
   Para saber mais sobre este serviço acesse: 
     
   * [AWS Elastic Beanstalk](https://aws.amazon.com/pt/elasticbeanstalk/)
+
+
+## AWS CloudFormation
+
+O AWS CloudFormation prove uma **linguágem** com **templates** nos quais o usuário pode providenciar **qualquer serviço da AWS**. Diferentemente do Beanstalk que era usado apenas para aplicações web.
+
+Basicamente vc cria este template com umn arquivo de texto simples e adiciona este arquivo no CloudFormation e ele provisiona a infraestrutura pra você. Podemos ainda criar nossos proprios templates, usar templates prontos e salvar estes templates em um bucket S3 para reutilizar em outros momentos.  
+
+
+ Para saber mais sobre este serviço acesse: 
+    
+  * [AWS CloudFormation](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html)
