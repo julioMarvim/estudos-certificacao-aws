@@ -62,3 +62,4 @@ A Nota para aprovação deve ser >= A 70 pts.
 
 * [Infraestrutura Global da AWS](./technology/global-infra.md)
 * [Como escolher uma Região da AWS](./technology/choosing-region.md)
+* [Metodos de Deployng e Operações na nuvem AWS](./technology/deployn-and-operating.md)
