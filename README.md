@@ -23,3 +23,15 @@
 * 3 - Witepapers AWS
   * [AWS Certified Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/)
 * 4 - Experiência Prática (6 meses) - Recomendação da AWS
+
+## Detalhes da Cerfiticação ACP
+
+<p>A Certificação ACP (AWS Cloud Practitioner) é destinada a profissionais de TI, Consultores, Gerentes de Projeto
+e Gestores de modo geral. De certa forma, esta certificação é direcionada a profissionais que possuem uma vizão mais geral e estrurural da nuvem AWS, ela não é tão aprofundada, quanto as demais, pois se trata de uma certificação inicial. Você como candidato, deve demonstrar que está apto a aplicar e recomendar os recursos da nuvem AWS, para conseguir esta certificação.</p>
+
+### Processo de certificação
+
+*  Prova de multipa escolha com multiplas respostas
+*  Duração de 90 minutos, 60 questões
+*  Custo 100 USD*
+*  Presencial ou Online
