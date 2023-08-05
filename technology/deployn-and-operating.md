@@ -53,7 +53,7 @@ Basicamente vc cria este template com umn arquivo de texto simples e adiciona es
 
   ## AWS CodeDeploy
 
-  É um serviço de **Implantação** totalmente gerenciado e **automático**, ele automatiza implantações de software em vários serviços **EC2**, **AWS Fargate**, **EC2**  e **AWS Lambda** e até mesmo **on-premises**. Ele é usado para automatizar a implantação e eliminar qualquer ação manual neste processo. 
+  É um serviço de **Implantação** totalmente gerenciado e **automático**, ele automatiza implantações de software em vários serviços **EC2**, **AWS Fargate**, **EC2**, **AWS Lambda** e até mesmo **on-premises**. Ele é usado para automatizar a implantação e eliminar qualquer ação manual neste processo. 
 
  Para saber mais sobre este serviço acesse: 
     
