@@ -11,7 +11,7 @@
 
 <p>Estes são os pontos chave para se sair bem na prova. Para quem não conhece nada sobre AWS, recomendo que seinicie os estudos pelo dominio 3 - Technology, porque assim, você vai se habtuando aos nomes dos serviços e aprendendo sobre como trabalhar com as ferramentas da AWS. Sendo assim comece pelo dominio 3, depois 1, 2 e 4.</p> 
 
-## Como se Prepara para a certificação
+## Como se Preparar para a Certificação
 
 * 1 - Cursos es Simulados
   * [Certificação AWS Certified Cloud Practitioner - Alura](https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner)
