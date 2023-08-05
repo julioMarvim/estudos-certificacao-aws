@@ -31,3 +31,12 @@ Basicamente vc cria este template com umn arquivo de texto simples e adiciona es
  Para saber mais sobre este serviço acesse: 
     
   * [AWS CloudFormation](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/Welcome.html)
+
+
+  ## AWS OpsWorks
+
+  O AWS OpsWorks é um gestor de provisonamento de configurações, ele providencia e gerencia instâncias de **Chef** e **Puppet**. Estas são plataformas de automação que permitem que o usuário use codigos para automatizar as configurações dos seus serviços. OpsWorks pode usar Chef e Puppet para automatizar como servidores são **configurados, como os deploy são realizados e gerenciados** atravez das instancias EC2 ou variaveis de computaçao on-premies.
+
+   Para saber mais sobre este serviço acesse: 
+    
+  * [AWS OpsWorks](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome.html)
