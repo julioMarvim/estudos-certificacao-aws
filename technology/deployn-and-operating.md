@@ -40,3 +40,12 @@ Basicamente vc cria este template com umn arquivo de texto simples e adiciona es
    Para saber mais sobre este serviço acesse: 
     
   * [AWS OpsWorks](https://docs.aws.amazon.com/opsworks/latest/userguide/welcome.html)
+
+
+  ## AWS CodeCommit
+
+  AWS CodeCommit é um **source controll service** que permite armazenar repositorios privados do Git. Ele facilita a gestão e colaboração de times de forma segura e escalável. O usuário não precisa se preocupar com escalabilidade e infraestrutura para este fim. E ele é totalmente compativel com as ferramentas Git existentes.
+
+ Para saber mais sobre este serviço acesse: 
+    
+  * [AWS CodeCommit](https://www.amazonaws.cn/en/codecommit/)
