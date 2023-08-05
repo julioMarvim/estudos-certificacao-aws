@@ -3,6 +3,16 @@
 Basicamente iremos discutir como é feito o deploy e como fazer essa operação na nuvem AWS. 
 É importante salientar que para esta certificação ACP não precisaremos nos aprofundar nesses serviços, apenas conhece-los superficialmente.
 
+Os serviços que iremos falar nesse momento são: 
+
+* AWS Elastic Beanstalk
+* AWS CloudFromation
+* AWS OpsWorks
+* AWS CodeCommit
+* AWS CodeDeploy
+* AWS CodePipeline
+* AWS EC2 Container Service
+
 ## AWS Elastic Beanstalk
 
 É um serviço de **deployng** e **scaling** para alicações WEB e serviços desenvolvidos com
