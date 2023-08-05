@@ -44,8 +44,17 @@ Basicamente vc cria este template com umn arquivo de texto simples e adiciona es
 
   ## AWS CodeCommit
 
-  AWS CodeCommit é um **source controll service** que permite armazenar repositorios privados do Git. Ele facilita a gestão e colaboração de times de forma segura e escalável. O usuário não precisa se preocupar com escalabilidade e infraestrutura para este fim. E ele é totalmente compativel com as ferramentas Git existentes.
+  AWS CodeCommit é um **source controll service** que permite armazenar repositorios privados do Git. Ele facilita a gestão e colaboração de times de forma **totalmente segura e escalável**. O usuário não precisa se preocupar com escalabilidade e infraestrutura para este fim. E ele é totalmente compativel com as ferramentas Git existentes.
 
  Para saber mais sobre este serviço acesse: 
     
   * [AWS CodeCommit](https://www.amazonaws.cn/en/codecommit/)
+
+
+  ## AWS CodeDeploy
+
+  É um serviço de **Implantação** totalmente gerenciado e **automático**, ele automatiza implantações de software em vários serviços **EC2**, **AWS Fargate**, **EC2**  e **AWS Lambda** e até mesmo **on-premises**. Ele é usado para automatizar a implantação e eliminar qualquer ação manual neste processo. 
+
+ Para saber mais sobre este serviço acesse: 
+    
+  * [AWS CodeDeploy](https://aws.amazon.com/pt/codedeploy/)
