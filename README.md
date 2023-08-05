@@ -44,3 +44,21 @@ e Gestores de modo geral. De certa forma, esta certificação é direcionada a p
 * Compreender os custos, e economia e as praticas de cobrança dentro da AWS Cloud.
 * Descrever e apontar os principaos serviços da AWS, inclindo computação, rede, banco de dados e armazenamento.
 * Identificar os serviços da AWS para casos de uso comuns.
+
+## Divisão da prova e subtemas
+
+Domain                                | % Examination
+----------------------------------    | -------------
+Dominio 1: Cloud Concepts             | 26%
+Dominio 2: Security and Compliance    | 25%
+Dominio 1: Tecnology                  | 33%
+Dominio 1: Billing and Pricing        | 66%
+
+A Nota para aprovação deve ser >= A 70 pts. 
+
+# Domain 3: Technology
+
+<p>Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo conhecer como funcionam as principais ferramentas fornecidas pela nuvem na AWS.</p>
+
+* [Infraestrutura Global da AWS](./technology/global-infra.md)
+* [Como escolher uma Região da AWS](./technology/choosing-region.md)
