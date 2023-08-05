@@ -67,3 +67,18 @@ Basicamente vc cria este template com umn arquivo de texto simples e adiciona es
 ### Importante
 
     Você não tem um investimento inicial ou seja **upfront fees**(CAPEX), que é o dinheiro que vc teria que fazer para provisionar a aplicação. 
+
+ Para saber mais sobre este serviço acesse: 
+    
+  * [AWS CodePipeline](https://aws.amazon.com/pt/codepipeline/)
+
+
+## AWS EC2 Container Services
+
+O Amazon ECS permite que você facilmente **rode, escale e dimensione** aplicações Docker na AWS. Ele elimina a necessidade de instalar, operar e escalar seu proprio **container cochestraiton** e infraestrutura de **cluster managements**.
+
+Dentro do ECS nos temos o AWS Fargate que nos permite gerenciar a infraestrutura dentro do cluster.
+
+ Para saber mais sobre este serviço acesse: 
+    
+  * [AWS EC2 Container Services](https://aws.amazon.com/pt/ecs/)
