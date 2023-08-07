@@ -4,7 +4,7 @@
 * S3 - Amazon Simple Storage Service
 * EC2 - Elastic Compute Cloud
 
-### IAM - Identity and Access Management
+## IAM - Identity and Access Management
 
 O AWS IAM nos permite **controlar e habilidar** de forma segura os acessos aos **serviços e recurosos** da AWS para o nosso **usuários**. Usando o IAM nós podemos criar e gerenciar **usuarios e grupos**, fronecendo ou removendo permissões para os mesmos. 
 
@@ -12,11 +12,17 @@ O AWS IAM nos permite **controlar e habilidar** de forma segura os acessos aos *
 * Gerenciar as roles IAM e suas permissões.
 * Gerenciar usuários federados e suas permissões.
 
+### IAM Roles
+
+Uma função do IAM é uma entidade do IAM que define um conjunto de permissões para fazer solicitações de serviço da AWS. **As funções do IAM (IAM Roles) não estão associadas a um usuário ou grupo específico**. Em vez disso, entidades confiáveis assumem funções, como usuários IAM, aplicativos ou serviços da AWS, como EC2.
+
+As funções do IAM permitem que você delegue acesso com permissões definidas a entidades confiáveis **sem precisar compartilhar chaves de acesso de longo prazo**.
+
 Para saber mais sobre este serviço acesse: 
     
   * [IAM - Identity and Access Management](https://docs.aws.amazon.com/pt_br/whitepapers/latest/navigating-gdpr-compliance/aws-identity-and-access-management.html)
 
-### S3 - Amazon Simple Storage Service
+## S3 - Amazon Simple Storage Service
 
 Amazon S3 é um **object storage** ou seja um serviço de armazenamento de objetos, que oferece escalabilidade, disponibilidade de dados e performace. 
 
@@ -32,7 +38,7 @@ Para saber mais sobre este serviço acesse:
     
   * [S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/s3/?icmpid=docs_homepage_featuredsvcs)
 
-### EC2 - Elastic Compute Cloud
+## EC2 - Elastic Compute Cloud
 
 O Amazon ec2 é um serviço da web que fornece capacidade de computação segura e redimensionável na nuvem. Ele foi projetado para tornar a computação em escala da Web mais fácil para os desenvolvedores.
 
