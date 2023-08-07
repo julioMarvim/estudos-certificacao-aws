@@ -21,9 +21,24 @@
 ## Principais Serviços da AWS
 
 * IAM - Identity and Access Management
+* S3 - Amazon Simple Storage Service
+
+### IAM - Identity and Access Management
 
 O AWS IAM nos permite **controlar e habilidar** de forma segura os acessos aos **serviços e recurosos** da AWS para o nosso **usuários**. Usando o IAM nós podemos criar e gerenciar **usuarios e grupos**, fronecendo ou removendo permissões para os mesmos. 
 
 * Gerenciar os usuarios IAM e seus acessos.
 * Gerenciar as roles IAM e suas permissões.
 * Gerenciar usuários federados e suas permissões.
+
+### S3 - Amazon Simple Storage Service
+
+Amazon S3 é um **object storage** ou seja um serviço de armazenamento de objetos, que oferece escalabilidade, disponibilidade de dados e performace. 
+
+Este serviço é projetado para possuir autissima disponibilidade, cerca de 99,**999999999%** e é usado por milhões de companias ao redor do mundo.
+
+* Baseado em objetos(object-based)
+* Tamanho dos arquivos - 0 a 5Tb
+* Key (nome do objeto)
+* Armazenamento ilimitado
+* Armazenamento em Buckets
