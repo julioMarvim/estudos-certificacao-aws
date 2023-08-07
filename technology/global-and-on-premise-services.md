@@ -15,4 +15,4 @@
 * Storage Gateway - Armazenamento de cache local hibrido com a nuvem.
 * CodeDeploy - Gerenciamento de deploy da mesma forma que na nuvem porem on premise.
 * OpsWorks - Operações automaticas com Chef e Puppet.
-* Iot Greengrass - Extensão de compatibilidade da nuvem com dispositivos locais. 
+* Iot Greengrass - Extensão de compatibilidade da nuvem com dispositivos locais.
