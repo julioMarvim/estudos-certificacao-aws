@@ -70,3 +70,21 @@ O Amazon EC2 muda a economia da computação permitindo  que você pague apenas 
 Para saber mais sobre este serviço acesse: 
     
   * [EC2 - Elastic Compute Cloud](https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_featuredsvcs)
+
+
+## Amazon RDS
+
+O Amazon **Relational Database** Service (Amazon RDS) fornece capacidade econômica e redimensionável enquanto automatiza tarefas administrativas demoradas, como provisionamento de hardware, configuração de banco de dados, aplicação de patches e backups.
+
+O Amazon RDS está disponível em vários tipos de instância de banco de dados - otimizados para memória, desempenho ou E/S - e oferece seis mecanismos de banco de dados familiares para você escolher, incluindo **Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database e SQL Server**.
+
+
+Para saber mais sobre este serviço acesse: 
+    
+  * [Amazon RDS](https://docs.aws.amazon.com/rds/?icmpid=docs_homepage_featuredsvcs)
+
+## DynamoDB
+
+O Amazon DynamoDB é um banco de dados de valores-chave (Key-value) e documentos que oferece desempenho de milissegundos de um dígito em qualquer escala. É um banco de dados totalmente gerenciado, **multirregional** e multimestre (multmaster) com segurança integrada, backup e restauração e cache na memória para aplicativos em escala de Internet. O DynamoDB pode lidar com mais de 10 trilhões de solicitações por dia e suportar picos de mais de 20 milhões de solicitações por segundo.
+
+**DynamoDB é um banco de dados NoSQL**
