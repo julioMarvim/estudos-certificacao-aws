@@ -27,3 +27,5 @@ Com a computação em nuvem, você não precisa fazer **grandes investimentos in
     **Concentre-se em projetos** que diferenciam seu negócio, **não na infraestrutura**. A computação em nuvem permite que você se concentre em seus próprios clientes, em vez de se concentrar no trabalho pesado de lidar com infraestrutura, emplihar e alimentar servidores.
 
 6. Torne-se global em minutos
+
+    **Implante facilmente** seu aplicativo em **várias regiões do mundo** com apenas alguns cliques. Isso significa que você pode fornecer **menor latência** e uma melhor experiência para seus clientes a um **custo mínimo**.
