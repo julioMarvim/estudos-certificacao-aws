@@ -4,9 +4,12 @@ A computação em nuvem é a entrega **sob demanda (On-Demand)** de capacidade c
 
 Com a computação em nuvem, você não precisa fazer **grandes investimentos iniciais (upfront investments)** em hardware e **gastar muito tempo** no trabalho pesado de **gerenciamento desse hardware**. Em vez disso, você pode **provisionar exatamente** o tipo e o tamanho certo de recursos de computação necessários para potencializar sua ideia ou operar seu departamento de TI. Você pode acessar quantos recursos precisar, **quase instantaneamente**, e **pagar apenas pelo que usar.**
 
-### 6 Vantagens da Computação em Nuvem
+## 6 Vantagens da Computação em Nuvem
 
-1. Trocar despesa de capital por despesa variável
+1. Trocar despesa de capital por despesa variável **(variable expanse)**
+
+    Em vez de ter que investir pesado em data centers e servidores antes de saber como vai usá-los, você pode **pagar apenas quando consumir recursos de computação e pagar apenas por quanto consumir.**
+
 2. Beneficie-se de enormes economias de escala
 3. Pare de adivinhar a capacidade
 4. Aumentar velocidade e agilidade
