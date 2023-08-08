@@ -29,3 +29,7 @@ Com a computação em nuvem, você não precisa fazer **grandes investimentos in
 6. Torne-se global em minutos
 
     **Implante facilmente** seu aplicativo em **várias regiões do mundo** com apenas alguns cliques. Isso significa que você pode fornecer **menor latência** e uma melhor experiência para seus clientes a um **custo mínimo**.
+
+Para saber mais sobre este assunto acesse: 
+    
+* [O que é computação em nuvem](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/what-is-cloud-computing.html)

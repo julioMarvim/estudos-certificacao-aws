@@ -16,3 +16,8 @@ A plataforma como serviço (PaaS) **elimina a necessidade de sua organização g
 ## Software como Serviço (SaaS)
 
 O software como serviço (SaaS) fornece a você um **produto completo** que é **executado e gerenciado pelo provedor de serviços**. Na maioria dos casos, as pessoas que se referem a Software como Serviço estão se referindo a **aplicativos de usuário final**. Com uma oferta SaaS, **você não precisa pensar em como o serviço é mantido** ou como a **infraestrutura subjacente é gerenciada**; você só precisa pensar em como usará esse software específico.
+
+    
+Para saber mais sobre este assunto acesse: 
+    
+* [Tipos de computação em nuvem](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
