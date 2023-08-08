@@ -23,4 +23,7 @@ Com a computação em nuvem, você não precisa fazer **grandes investimentos in
     Em um ambiente de computação em nuvem, novos recursos de TI estão a **apenas um clique** de distância, o que significa que você reduz o tempo de disponibilização desses recursos para seus desenvolvedores de **semanas para apenas alguns minutos**. Isso resulta em um aumento dramático na **agilidade da sua organização**, já que o custo e o tempo necessários para experimentar e desenvolver são significativamente menores.
 
 5. Pare de gastar dinheiro executando e mantendo data centers
+
+    **Concentre-se em projetos** que diferenciam seu negócio, **não na infraestrutura**. A computação em nuvem permite que você se concentre em seus próprios clientes, em vez de se concentrar no trabalho pesado de lidar com infraestrutura, emplihar e alimentar servidores.
+
 6. Torne-se global em minutos
