@@ -11,6 +11,9 @@ Com a computação em nuvem, você não precisa fazer **grandes investimentos in
     Em vez de ter que investir pesado em data centers e servidores antes de saber como vai usá-los, você pode **pagar apenas quando consumir recursos de computação e pagar apenas por quanto consumir.**
 
 2. Beneficie-se de enormes economias de escala
+
+    Ao usar a computação em nuvem, você pode obter um custo variável menor do que o obtido por conta própria. Como o uso de centenas de milhares de clientes é agregado na nuvem, provedores como a AWS podem obter **maiores economias de escala**, o que se traduz em **preços de pagamento conforme o uso mais baixos**.
+
 3. Pare de adivinhar a capacidade
 4. Aumentar velocidade e agilidade
 5. Pare de gastar dinheiro executando e mantendo data centers
