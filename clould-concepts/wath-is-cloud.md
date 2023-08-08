@@ -15,6 +15,9 @@ Com a computação em nuvem, você não precisa fazer **grandes investimentos in
     Ao usar a computação em nuvem, você pode obter um custo variável menor do que o obtido por conta própria. Como o uso de centenas de milhares de clientes é agregado na nuvem, provedores como a AWS podem obter **maiores economias de escala**, o que se traduz em **preços de pagamento conforme o uso mais baixos**.
 
 3. Pare de adivinhar a capacidade
+
+    **Elimine a adivinhação sobre suas necessidades de capacidade de infraestrutura**. Quando você toma uma decisão de capacidade antes de implantar um aplicativo, geralmente acaba ficando com **recursos ociosos caros** ou lidando com capacidade limitada. Com a computação em nuvem, esses problemas desaparecem. Você pode acessar o **máximo ou o mínimo de capacidade que precisar** e **aumentar e diminuir conforme necessário com apenas alguns minutos de antecedência.**
+
 4. Aumentar velocidade e agilidade
 5. Pare de gastar dinheiro executando e mantendo data centers
 6. Torne-se global em minutos
