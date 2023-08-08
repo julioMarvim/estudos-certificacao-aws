@@ -62,6 +62,7 @@ Nesta parte do treinamento iremos abordar os principais conceitos da Núvem de f
 
 * [O que é Cloud Computing](/clould-concepts/wath-is-cloud.md)
 * [Tipos de Computação em Nuvem](/clould-concepts/cloud-types.md)
+* [Modelos de Computação em Nuvem](/clould-concepts/cloud-models.md)
 
 
 # Domain 3: Technology
