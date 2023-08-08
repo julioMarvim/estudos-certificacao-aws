@@ -1,4 +1,4 @@
-# Tipos de computação em nuvem
+# Tipos de Computação em Nuvem
 
 * Infrastructure as a Service (IaaS)
 * Platform as a Service (PaaS)
