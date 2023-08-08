@@ -19,5 +19,8 @@ Com a computação em nuvem, você não precisa fazer **grandes investimentos in
     **Elimine a adivinhação sobre suas necessidades de capacidade de infraestrutura**. Quando você toma uma decisão de capacidade antes de implantar um aplicativo, geralmente acaba ficando com **recursos ociosos caros** ou lidando com capacidade limitada. Com a computação em nuvem, esses problemas desaparecem. Você pode acessar o **máximo ou o mínimo de capacidade que precisar** e **aumentar e diminuir conforme necessário com apenas alguns minutos de antecedência.**
 
 4. Aumentar velocidade e agilidade
+
+    Em um ambiente de computação em nuvem, novos recursos de TI estão a **apenas um clique** de distância, o que significa que você reduz o tempo de disponibilização desses recursos para seus desenvolvedores de **semanas para apenas alguns minutos**. Isso resulta em um aumento dramático na **agilidade da sua organização**, já que o custo e o tempo necessários para experimentar e desenvolver são significativamente menores.
+
 5. Pare de gastar dinheiro executando e mantendo data centers
 6. Torne-se global em minutos
