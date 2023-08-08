@@ -22,3 +22,10 @@ Para saber mais sobre este assunto acesse:
     
 * [Sobre Nuvem Hibrida](https://aws.amazon.com/pt/hybrid/)
 
+## Nuvem Privada (On-Premises)
+
+A implantação de recursos no local, usando ferramentas de virtualização e gerenciamento de recursos, às vezes é chamada de **“nuvem privada”. A implantação local não oferece muitos dos benefícios da computação em nuvem, mas às vezes é procurada por sua capacidade de fornecer recursos dedicados**. Na maioria dos casos, esse modelo de implantação é o mesmo que a infraestrutura de TI herdada, usando gerenciamento de aplicativos e tecnologias de virtualização para tentar aumentar a utilização de recursos.
+
+Para saber mais sobre este assunto acesse: 
+    
+* [Sobre Nuvem Privada](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
