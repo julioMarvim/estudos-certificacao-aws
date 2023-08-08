@@ -56,9 +56,16 @@ Dominio 1: Billing and Pricing        | 66%
 
 A Nota para aprovação deve ser >= A 70 pts. 
 
+# Domain 1: Cloud Concepts
+
+Nesta parte do treinamento iremos abordar os principais conceitos da Núvem de forma geral, frizando desmistificar alguns termos importantes e que costumam cair na prova.
+
+* [O que é Cloud Computing](/clould-concepts/wath-is-cloud.md)
+
+
 # Domain 3: Technology
 
-<p>Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo conhecer como funcionam as principais ferramentas fornecidas pela nuvem na AWS.</p>
+Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo conhecer como funcionam as principais ferramentas fornecidas pela nuvem na AWS.
 
 * [Infraestrutura Global da AWS](./technology/global-infra.md)
 * [Como escolher uma Região da AWS](./technology/choosing-region.md)
