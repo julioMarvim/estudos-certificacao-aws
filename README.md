@@ -61,6 +61,7 @@ A Nota para aprovação deve ser >= A 70 pts.
 Nesta parte do treinamento iremos abordar os principais conceitos da Núvem de forma geral, frizando desmistificar alguns termos importantes e que costumam cair na prova.
 
 * [O que é Cloud Computing](/clould-concepts/wath-is-cloud.md)
+* [Tipos de Computação em Nuvem](/clould-concepts/cloud-types.md)
 
 
 # Domain 3: Technology
