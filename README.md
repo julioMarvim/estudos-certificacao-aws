@@ -64,6 +64,11 @@ Nesta parte do treinamento iremos abordar os principais conceitos da Núvem de f
 * [Tipos de Computação em Nuvem](/clould-concepts/cloud-types.md)
 * [Modelos de Computação em Nuvem](/clould-concepts/cloud-models.md)
 
+# Domain 2: Security and Compliance
+
+Nesta parte do treienamento iremos abordar os princimais motivos pelos quais a nuvem AWS é um ambiente seguro, e entender melhor quais os cuidados e responsabilidades nós, como clientes, devemos ter para fazer o melhor uso de todo esse arcabolso de segurança.
+
+* [Segurança na Nuvem](/security-compliance/cloud-security.md)
 
 # Domain 3: Technology
 
