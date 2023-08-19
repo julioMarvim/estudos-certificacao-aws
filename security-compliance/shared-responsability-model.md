@@ -6,3 +6,11 @@ Os clientes devem considerar cuidadosamente os serviços que escolhem, **pois su
 
 1. **Segurança “da” Nuvem**: Responsabilidade da **AWS**
 2. **Segurança “na” Nuvem**: Responsabilidade do **Cliente**
+
+### Representação do modelo de responsabilidade compatilhada
+
+![Modelo de responsabilidade compartilhada](/images/shared-responsability-model.png)
+
+Para saber mais sobre este assunto acesse: 
+    
+  * [Shared responsability model](https://docs.aws.amazon.com/pt_br/AmazonECS/latest/bestpracticesguide/security-shared.html)
