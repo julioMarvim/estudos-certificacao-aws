@@ -69,6 +69,7 @@ Nesta parte do treinamento iremos abordar os principais conceitos da Núvem de f
 Nesta parte do treienamento iremos abordar os princimais motivos pelos quais a nuvem AWS é um ambiente seguro, e entender melhor quais os cuidados e responsabilidades nós, como clientes, devemos ter para fazer o melhor uso de todo esse arcabolso de segurança.
 
 * [Segurança na Nuvem](/security-compliance/cloud-security.md)
+* [Modelo de Responsabilidade Compartilhada](/security-compliance/shared-responsability-model.md)
 
 # Domain 3: Technology
 
