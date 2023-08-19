@@ -70,6 +70,7 @@ Nesta parte do treienamento iremos abordar os princimais motivos pelos quais a n
 
 * [Segurança na Nuvem](/security-compliance/cloud-security.md)
 * [Modelo de Responsabilidade Compartilhada](/security-compliance/shared-responsability-model.md)
+* [AWS Compliance](/security-compliance/aws-compliance.md)
 
 # Domain 3: Technology
 

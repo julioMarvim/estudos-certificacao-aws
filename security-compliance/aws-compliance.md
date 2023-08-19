@@ -16,3 +16,8 @@ Estes são apenas alguns exemplos:
 Para saber mais sobre este assunto acesse: 
     
   * [Compliance programs](https://aws.amazon.com/pt/compliance/programs/)
+
+
+## AWS Artfact
+
+O AWS Artifact apresenta uma lista abrangente de documentos com acesso controlado relevantes para conformidade e segurança na nuvem AWS.
