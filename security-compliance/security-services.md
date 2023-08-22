@@ -75,19 +75,30 @@ Para saber mais sobre este serviço acesse:
   * [AWS CloudTrail](https://docs.aws.amazon.com/cloudtrail/)
 
 
-  ## AWS CloudWatch
+## AWS CloudWatch
 
-  O Amazon CloudWatch fornece dados e insights acionáveis para monitorar seus aplicativos, responder a alterações de desempenho em todo o sistema, otimizar a utilização de recursos e obter uma visão unificada da integridade operacional. **O CloudWatch coleta dados operacionais e de monitoramento na forma de logs, métricas e eventos, fornecendo a você uma visão unificada dos recursos, aplicativos e serviços da AWS executados na AWS e em servidores locais**. Você pode usar o CloudWatch para detectar anomalias, definir alarmes, visualizar logs e métricas lado a lado, tomar ações automatizadas e solucionar problemas.
+O Amazon CloudWatch fornece dados e insights acionáveis para monitorar seus aplicativos, responder a alterações de desempenho em todo o sistema, otimizar a utilização de recursos e obter uma visão unificada da integridade operacional. **O CloudWatch coleta dados operacionais e de monitoramento na forma de logs, métricas e eventos, fornecendo a você uma visão unificada dos recursos, aplicativos e serviços da AWS executados na AWS e em servidores locais**. Você pode usar o CloudWatch para detectar anomalias, definir alarmes, visualizar logs e métricas lado a lado, tomar ações automatizadas e solucionar problemas.
 
   Para saber mais sobre este serviço acesse: 
     
   * [AWS CloudWatch](https://docs.aws.amazon.com/cloudwatch/)
 
 
-  ## AWS Config
+## AWS Config
 
-  AWS Config é um serviço que permite **avaliar, auditar e avaliar** as configurações dos seus recursos da AWS. O Config monitora e registra continuamente suas configurações de recursos da AWS e permite que você automatize a avaliação das configurações registradas em relação às configurações desejadas. Com o Config, você pode **revisar alterações nas configurações e relacionamentos entre recursos da AWS**, mergulhar em históricos detalhados de configuração de recursos e determinar sua conformidade geral em relação às configurações especificadas em suas diretrizes internas.
+AWS Config é um serviço que permite **avaliar, auditar e avaliar** as configurações dos seus recursos da AWS. O Config monitora e registra continuamente suas configurações de recursos da AWS e permite que você automatize a avaliação das configurações registradas em relação às configurações desejadas. Com o Config, você pode **revisar alterações nas configurações e relacionamentos entre recursos da AWS**, mergulhar em históricos detalhados de configuração de recursos e determinar sua conformidade geral em relação às configurações especificadas em suas diretrizes internas.
 
    Para saber mais sobre este serviço acesse: 
     
   * [AWS Config](https://docs.aws.amazon.com/config/)
+
+
+## AWS Athena  
+
+O Amazon Athena é um serviço de **consulta interativa** que **facilita a análise de dados no Amazon S3 usando SQL padrão**. O Athena não tem servidor, portanto, não há infraestrutura para gerenciar e **você paga apenas pelas consultas executadas**.
+
+Basta apontar para seus dados no Amazon S3, definir o esquema e começar a consultar usando o SQL padrão. Com o Athena, não há necessidade de tarefas ETL complexas para preparar seus dados para análise. Isso torna mais fácil para qualquer pessoa com habilidades em SQL analisar rapidamente conjuntos de dados em grande escala.
+
+Para saber mais sobre este serviço acesse: 
+    
+  * [AWS Athena](https://docs.aws.amazon.com/athena/)
