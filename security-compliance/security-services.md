@@ -82,3 +82,12 @@ Para saber mais sobre este serviço acesse:
   Para saber mais sobre este serviço acesse: 
     
   * [AWS CloudWatch](https://docs.aws.amazon.com/cloudwatch/)
+
+
+  ## AWS Config
+
+  AWS Config é um serviço que permite **avaliar, auditar e avaliar** as configurações dos seus recursos da AWS. O Config monitora e registra continuamente suas configurações de recursos da AWS e permite que você automatize a avaliação das configurações registradas em relação às configurações desejadas. Com o Config, você pode **revisar alterações nas configurações e relacionamentos entre recursos da AWS**, mergulhar em históricos detalhados de configuração de recursos e determinar sua conformidade geral em relação às configurações especificadas em suas diretrizes internas.
+
+   Para saber mais sobre este serviço acesse: 
+    
+  * [AWS Config](https://docs.aws.amazon.com/config/)
