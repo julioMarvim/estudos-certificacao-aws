@@ -102,3 +102,14 @@ Basta apontar para seus dados no Amazon S3, definir o esquema e começar a consu
 Para saber mais sobre este serviço acesse: 
     
   * [AWS Athena](https://docs.aws.amazon.com/athena/)
+
+
+## AWS Macie
+
+O Amazon Macie é um serviço de segurança que usa **aprendizado de máquina** para **descobrir, classificar e proteger automaticamente dados confidenciais na AWS**. O Amazon Macie reconhece dados confidenciais, como **informações de identificação pessoal (PII)** ou propriedade intelectual, e fornece painéis e alertas que dão visibilidade sobre como esses dados estão sendo acessados ou movidos. O serviço totalmente gerenciado monitora continuamente a atividade de acesso a dados em busca de anomalias e gera alertas detalhados quando detecta risco de acesso não autorizado ou vazamento inadvertido de dados.
+
+Hoje, o Amazon Macie está **disponível** para **proteger os dados armazenados no Amazon S3**, com suporte para armazenamentos de dados adicionais da AWS no final deste ano.
+
+Para saber mais sobre este serviço acesse: 
+    
+  * [AWS Macie](https://docs.aws.amazon.com/macie/)
