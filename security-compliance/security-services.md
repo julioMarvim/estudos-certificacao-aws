@@ -16,3 +16,16 @@ Você pode implantar o AWS WAF no Amazon **CloudFront** como parte de sua soluç
 Para saber mais sobre este assunto acesse: 
     
   * [AWS WAF](https://docs.aws.amazon.com/waf/index.html)
+
+
+## AWS Shield - DDoS Protection 
+
+O AWS Shield é um serviço gerenciado de **proteção contra Denial of Service (DDoS)** que protege os aplicativos executados na AWS. O AWS Shield fornece detecção sempre ativa e mitigações automáticas em linha que **minimizam** o tempo de **inatividade** e a **latência** do aplicativo, portanto, não há necessidade de envolver o AWS Support para se beneficiar da proteção contra DDoS. Existem dois níveis de AWS Shield - **Standard** e **Advanced**.
+
+### AWS Shield Standard
+
+O AWS Shield Standard **fornece monitoramento de fluxo de rede sempre ativo, que inspeciona o tráfego de entrada para a AWS** e usa uma **combinação de assinaturas de tráfego**, algoritmos de anomalia e outras técnicas de análise para **detectar tráfego malicioso em tempo real.**
+
+### AWS Shield Advanced
+
+Você também pode mitigar ataques DDoS na camada de aplicativo **escrevendo regras** usando o AWS WAF. Com o **AWS WAF você paga apenas pelo que usa**. Basicamente a diferença é que no Advanced vc pode **customizar suas regras**. 
