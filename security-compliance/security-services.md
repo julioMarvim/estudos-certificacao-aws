@@ -29,3 +29,7 @@ O AWS Shield Standard **fornece monitoramento de fluxo de rede sempre ativo, que
 ### AWS Shield Advanced
 
 Você também pode mitigar ataques DDoS na camada de aplicativo **escrevendo regras** usando o AWS WAF. Com o **AWS WAF você paga apenas pelo que usa**. Basicamente a diferença é que no Advanced vc pode **customizar suas regras**. 
+
+Para saber mais sobre este assunto acesse: 
+    
+  * [AWS Shield](https://docs.aws.amazon.com/pt_br/waf/latest/developerguide/shield-chapter.html)
