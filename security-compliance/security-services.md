@@ -13,7 +13,7 @@ AWS WAF, **você paga apenas pelo que usar**. O preço é baseado em quantas reg
 
 Você pode implantar o AWS WAF no Amazon **CloudFront** como parte de sua solução CDN, o **Application Load Balancer** que faz frente a seus servidores web ou servidores de origem em execução no EC2 ou Amazon API Gateway para suas APIs.
 
-Para saber mais sobre este assunto acesse: 
+Para saber mais sobre este serviço acesse: 
     
   * [AWS WAF](https://docs.aws.amazon.com/waf/index.html)
 
@@ -39,7 +39,7 @@ X                                                       | Elastic Load Balancing
 X                                                       | AWS Global Accelerator
 X                                                       | Elastic IP (Amazon Elastic Compute Cloud and Network Load Balancer)
 
-Para saber mais sobre este assunto acesse: 
+Para saber mais sobre este serviço acesse: 
     
   * [AWS Shield](https://docs.aws.amazon.com/pt_br/waf/latest/developerguide/shield-chapter.html)
 
@@ -50,7 +50,7 @@ O Amazon Inspector é um serviço **automatizado de avaliação de segurança qu
 
 As avaliações de segurança do Amazon Inspector ajudam você a verificar a acessibilidade de rede não intencional de suas instâncias do **Amazon EC2** e as vulnerabilidades nessas instâncias do EC2.
 
-Para saber mais sobre este assunto acesse: 
+Para saber mais sobre este serviço acesse: 
     
   * [AWS Inspector](https://docs.aws.amazon.com/inspector)
 
@@ -61,7 +61,7 @@ O AWS Trusted Advisor é uma **ferramenta online** que fornece orientação em t
 
 Seja estabelecendo novos fluxos de trabalho, desenvolvendo aplicativos ou como parte de uma melhoria contínua, aproveite as recomendações fornecidas pelo Trusted Advisor regularmente para ajudar a manter suas soluções provisionadas de maneira ideal.
 
-Para saber mais sobre este assunto acesse: 
+Para saber mais sobre este serviço acesse: 
     
   * [AWS Trusted Advisor](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html)
 
@@ -70,7 +70,7 @@ Para saber mais sobre este assunto acesse:
 
 AWS CloudTrail é um serviço que permite **governança, conformidade, auditoria operacional e auditoria de risco de sua conta AWS**. Com o CloudTrail, **você pode registrar, monitorar continuamente e reter a atividade da conta relacionada a ações em sua infraestrutura da AWS**. O CloudTrail **fornece histórico de eventos da atividade da sua conta da AWS**, incluindo ações realizadas por meio do AWS Management Console, AWS SDKs, ferramentas de linha de comando e outros serviços da AWS. Esse histórico de eventos simplifica a análise de segurança, o rastreamento de alterações de recursos e a solução de problemas. Além disso, você pode usar o **CloudTrail para detectar atividades incomuns em suas contas**.
 
-Para saber mais sobre este assunto acesse: 
+Para saber mais sobre este serviço acesse: 
     
   * [AWS CloudTrail](https://docs.aws.amazon.com/cloudtrail/)
 
@@ -79,6 +79,6 @@ Para saber mais sobre este assunto acesse:
 
   O Amazon CloudWatch fornece dados e insights acionáveis para monitorar seus aplicativos, responder a alterações de desempenho em todo o sistema, otimizar a utilização de recursos e obter uma visão unificada da integridade operacional. **O CloudWatch coleta dados operacionais e de monitoramento na forma de logs, métricas e eventos, fornecendo a você uma visão unificada dos recursos, aplicativos e serviços da AWS executados na AWS e em servidores locais**. Você pode usar o CloudWatch para detectar anomalias, definir alarmes, visualizar logs e métricas lado a lado, tomar ações automatizadas e solucionar problemas.
 
-  Para saber mais sobre este assunto acesse: 
+  Para saber mais sobre este serviço acesse: 
     
   * [AWS CloudWatch](https://docs.aws.amazon.com/cloudwatch/)
