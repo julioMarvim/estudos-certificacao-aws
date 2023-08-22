@@ -49,3 +49,7 @@ Para saber mais sobre este assunto acesse:
 O Amazon Inspector é um serviço **automatizado de avaliação de segurança que ajuda a melhorar a segurança e a conformidade dos aplicativos implantados na AWS**. O Amazon Inspector avalia automaticamente os aplicativos quanto **à exposição, vulnerabilidades e desvios das práticas recomendadas**. Depois de realizar uma avaliação, o Amazon Inspector produz uma lista detalhada de descobertas de segurança priorizadas por nível de gravidade. Essas descobertas podem ser revisadas diretamente ou como parte de relatórios de avaliação detalhados que estão disponíveis por meio do console ou API do Amazon Inspector.
 
 As avaliações de segurança do Amazon Inspector ajudam você a verificar a acessibilidade de rede não intencional de suas instâncias do **Amazon EC2** e as vulnerabilidades nessas instâncias do EC2.
+
+Para saber mais sobre este assunto acesse: 
+    
+  * [AWS Inspector](https://docs.aws.amazon.com/inspector)
