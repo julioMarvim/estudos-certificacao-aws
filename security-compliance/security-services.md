@@ -73,3 +73,12 @@ AWS CloudTrail é um serviço que permite **governança, conformidade, auditoria
 Para saber mais sobre este assunto acesse: 
     
   * [AWS CloudTrail](https://docs.aws.amazon.com/cloudtrail/)
+
+
+  ## AWS CloudWatch
+
+  O Amazon CloudWatch fornece dados e insights acionáveis para monitorar seus aplicativos, responder a alterações de desempenho em todo o sistema, otimizar a utilização de recursos e obter uma visão unificada da integridade operacional. **O CloudWatch coleta dados operacionais e de monitoramento na forma de logs, métricas e eventos, fornecendo a você uma visão unificada dos recursos, aplicativos e serviços da AWS executados na AWS e em servidores locais**. Você pode usar o CloudWatch para detectar anomalias, definir alarmes, visualizar logs e métricas lado a lado, tomar ações automatizadas e solucionar problemas.
+
+  Para saber mais sobre este assunto acesse: 
+    
+  * [AWS CloudWatch](https://docs.aws.amazon.com/cloudwatch/)
