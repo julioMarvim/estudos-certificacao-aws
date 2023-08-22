@@ -53,3 +53,14 @@ As avaliações de segurança do Amazon Inspector ajudam você a verificar a ace
 Para saber mais sobre este assunto acesse: 
     
   * [AWS Inspector](https://docs.aws.amazon.com/inspector)
+
+
+## AWS Trusted Advisor
+
+O AWS Trusted Advisor é uma **ferramenta online** que fornece orientação em tempo real para ajudá-lo a provisionar seus recursos seguindo as melhores práticas da AWS.
+
+Seja estabelecendo novos fluxos de trabalho, desenvolvendo aplicativos ou como parte de uma melhoria contínua, aproveite as recomendações fornecidas pelo Trusted Advisor regularmente para ajudar a manter suas soluções provisionadas de maneira ideal.
+
+Para saber mais sobre este assunto acesse: 
+    
+  * [AWS Trusted Advisor](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html)
