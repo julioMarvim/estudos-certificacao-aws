@@ -64,3 +64,12 @@ Seja estabelecendo novos fluxos de trabalho, desenvolvendo aplicativos ou como p
 Para saber mais sobre este assunto acesse: 
     
   * [AWS Trusted Advisor](https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor.html)
+
+
+## AWS CloudTrail
+
+AWS CloudTrail é um serviço que permite **governança, conformidade, auditoria operacional e auditoria de risco de sua conta AWS**. Com o CloudTrail, **você pode registrar, monitorar continuamente e reter a atividade da conta relacionada a ações em sua infraestrutura da AWS**. O CloudTrail **fornece histórico de eventos da atividade da sua conta da AWS**, incluindo ações realizadas por meio do AWS Management Console, AWS SDKs, ferramentas de linha de comando e outros serviços da AWS. Esse histórico de eventos simplifica a análise de segurança, o rastreamento de alterações de recursos e a solução de problemas. Além disso, você pode usar o **CloudTrail para detectar atividades incomuns em suas contas**.
+
+Para saber mais sobre este assunto acesse: 
+    
+  * [AWS CloudTrail](https://docs.aws.amazon.com/cloudtrail/)
