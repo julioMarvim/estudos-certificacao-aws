@@ -89,3 +89,4 @@ Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo conhece
 Nesta parte do treinamento iremos abordar os principais pontos relacionados à preços e formas de pagamentos na nuvem AWS
 
 * [Como pagar a AWS](/billing-pricing/who-to-pay-aws.md)
+* [Gerenciamento de faturamento e custos](/billing-pricing/aws-billing-cost-and-management.md)
