@@ -90,4 +90,4 @@ Nesta parte do treinamento iremos abordar os principais pontos relacionados à p
 
 * [Como pagar a AWS](/billing-pricing/who-to-pay-aws.md)
 * [Gerenciamento de faturamento e custos](/billing-pricing/aws-billing-cost-and-management.md)
-* [Serviços gratuitos e Free Tier](/billing-pricing/free-tier.md)
+* [Serviços gratuitos e Free Tier](/billing-pricing/free-services-and-free-tier.md)

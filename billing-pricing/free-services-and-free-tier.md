@@ -11,3 +11,7 @@ não é cobrado, agora a infraestrutura provisonada por ele sim.
 * AutoScaling
 * Opsworks
 
+## AWS Free Tier
+
+O nível gratuito da AWS permite que você obtenha experiência prática e gratuita com a plataforma, os produtos e os serviços da AWS. **O nível gratuito da AWS inclui ofertas que expiram 12 meses após a inscrição, Sempre gratuito e Avaliações**.
+
