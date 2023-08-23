@@ -17,3 +17,9 @@ As Instâncias Reservadas estão disponíveis em 3 opções:
 * Tudo adiantado - **All up-front (AURI)**
 * Adiantamento parcial **Partial up-front (PURI)**
 * Sem pagamentos adiantados **No up-front payment (NURI)**
+
+## Pague menos usando mais
+
+Com a AWS, você pode obter descontos baseados em volume e obter economias importantes à medida que seu uso aumenta. **Para serviços como S3 e transferência de dados OUT do EC2, o preço é escalonado, ou seja, quanto mais você usa, menos paga por GB**. Além disso, **a transferência de dados IN é sempre gratuita**. Como resultado, à medida que suas necessidades de uso da AWS aumentam, você se beneficia das economias de escala que permitem aumentar a adoção e manter os custos sob controle.
+
+Este modelo faz referência aos serviços da aws onde vc paga menos a medida que a quandidade de dados trafegados aumenta. 
