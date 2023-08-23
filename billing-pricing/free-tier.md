@@ -10,3 +10,4 @@ não é cobrado, agora a infraestrutura provisonada por ele sim.
 * IAM
 * AutoScaling
 * Opsworks
+
