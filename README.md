@@ -82,3 +82,12 @@ Nesta parte do treinamento iremos abordar os serviços da AWS, sobretudo conhece
 * [Metodos de Deployng e Operações na nuvem AWS](./technology/deployn-and-operating.md)
 * [Serviços Globais e On-Premise](./technology/global-and-on-premise-services.md)
 * [Principais serviços da AWS](./technology/main-services.md)
+
+
+# Domain 4: Billing and Pricing
+
+Nesta parte do treinamento iremos abordar os principais pontos relacionados à preços e formas de pagamentos na nuvem AWS
+
+* [Como pagar a AWS](/billing-pricing/who-to-pay-aws.md)
+* [Gerenciamento de faturamento e custos](/billing-pricing/aws-billing-cost-and-management.md)
+* [Serviços gratuitos e Free Tier](/billing-pricing/free-services-and-free-tier.md)
