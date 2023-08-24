@@ -24,3 +24,11 @@ A duração é calculada a partir do momento em que o código começa a ser exec
 Para saber mais sobre este assunto acesse: 
 
   * [Definição de preço do AWS Lambda](https://aws.amazon.com/pt/lambda/pricing/)
+
+## Preço do Amazon EBS
+
+Com o Amazon Elastic Block Store (EBS), você paga somente pelo que provisiona. O armazenamento de volume para todos os tipos de volumes do EBS é cobrado pela quantidade provisionada em GB por mês até a liberação do armazenamento. Os custos aumentam para os volumes EBS compatíveis com mais operações de entrada/saída por segundo (IOPS) e taxa de transferência superior à performance da linha de base.
+
+Para saber mais sobre este assunto acesse: 
+
+  * [Definição de preço do Amazon EBS](https://aws.amazon.com/pt/ebs/pricing/)
