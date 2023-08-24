@@ -1,5 +1,7 @@
 ##  Estimando custos do Amazon EC2
 
+O Amazon EC2 pode ser testado gratuitamente. Há várias maneiras de pagar pelas instâncias do EC2: **sob demanda, Savings Plans, instâncias reservadas e instâncias spot do Amazon EC2**.
+
 * Horas do relógio do servidor
 * Tipo de instância
 * Modelo de preços
@@ -13,6 +15,7 @@
 Para saber mais sobre este assunto acesse: 
 
   * [Preço do Amazon EC2](https://aws.amazon.com/pt/ec2/pricing/)
+  * [Otimização de custos EC2](https://aws.amazon.com/pt/ec2/cost-and-capacity/)
 
 ## Preços do AWS Lambda
 
