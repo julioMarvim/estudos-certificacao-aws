@@ -2,6 +2,8 @@
 
 O Amazon EC2 pode ser testado gratuitamente. Há várias maneiras de pagar pelas instâncias do EC2: **sob demanda, Savings Plans, instâncias reservadas e instâncias spot do Amazon EC2**.
 
+### pontos inportantes que influenciam no preco:
+
 * Horas do relógio do servidor
 * Tipo de instância
 * Modelo de preços
@@ -29,6 +31,13 @@ Para saber mais sobre este assunto acesse:
 
 Com o Amazon Elastic Block Store (EBS), você paga somente pelo que provisiona. O armazenamento de volume para todos os tipos de volumes do EBS é cobrado pela quantidade provisionada em GB por mês até a liberação do armazenamento. Os custos aumentam para os volumes EBS compatíveis com mais operações de entrada/saída por segundo (IOPS) e taxa de transferência superior à performance da linha de base.
 
+### pontos inportantes que influenciam no preco:
+
+* Volumes
+* Instantâneos
+* Transferência de dados
+
+
 Para saber mais sobre este assunto acesse: 
 
   * [Definição de preço do Amazon EBS](https://aws.amazon.com/pt/ebs/pricing/)
@@ -36,6 +45,14 @@ Para saber mais sobre este assunto acesse:
 ## Definição de preço do Amazon S3
 
 Pague somente pelo que usar. Não há cobrança mínima. Os componentes de custo do Amazon S3 são os preços de: armazenamento, solicitação e recuperação de dados, transferência e aceleração de transferência de dados, recursos de gerenciamento e insights de dados, replicação e recursos de transformação e consulta. 
+
+### pontos inportantes que influenciam no preco:
+
+* Classes de Armazenamento
+* Armazenamento
+* Requests
+* Data transfer
+
 
 Para saber mais sobre este assunto acesse: 
 
