@@ -32,3 +32,11 @@ Com o Amazon Elastic Block Store (EBS), você paga somente pelo que provisiona. 
 Para saber mais sobre este assunto acesse: 
 
   * [Definição de preço do Amazon EBS](https://aws.amazon.com/pt/ebs/pricing/)
+
+## Definição de preço do Amazon S3
+
+Pague somente pelo que usar. Não há cobrança mínima. Os componentes de custo do Amazon S3 são os preços de: armazenamento, solicitação e recuperação de dados, transferência e aceleração de transferência de dados, recursos de gerenciamento e insights de dados, replicação e recursos de transformação e consulta. 
+
+Para saber mais sobre este assunto acesse: 
+
+  * [Definição de preço do Amazon S3](https://aws.amazon.com/pt/s3/pricing/)
