@@ -92,3 +92,4 @@ Nesta parte do treinamento iremos abordar os principais pontos relacionados à p
 * [Gerenciamento de faturamento e custos](/billing-pricing/aws-billing-cost-and-management.md)
 * [Serviços gratuitos e Free Tier](/billing-pricing/free-services-and-free-tier.md)
 * [Resource Groups e Tags](/billing-pricing/resource-groups-and-tags.md)
+* [Organizações AWS](/billing-pricing/organizations.md)
