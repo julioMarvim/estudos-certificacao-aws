@@ -57,3 +57,24 @@ Pague somente pelo que usar. Não há cobrança mínima. Os componentes de custo
 Para saber mais sobre este assunto acesse: 
 
   * [Definição de preço do Amazon S3](https://aws.amazon.com/pt/s3/pricing/)
+
+
+## Estimando custos do Amazon RDS
+
+O Amazon RDS é gratuito para teste, e você paga apenas pelo que usar, sem tarifas mínimas. Você pode pagar pelo Amazon RDS usando **instâncias sob demanda ou reservadas**.
+
+### pontos inportantes que influenciam no preco:
+
+* Horas do relógio do servidor
+* Características do banco de dados
+* Tipo de compra de banco de dados
+* Número de instâncias de banco de dados
+* Armazenamento provisionado
+* Armazenamento adicional
+* Requests
+* Tipo de implantação
+* Transferência de dados
+
+Para saber mais sobre este assunto acesse: 
+
+  * [Definição de preço do Amazon RDS](https://aws.amazon.com/pt/rds/pricing/)
