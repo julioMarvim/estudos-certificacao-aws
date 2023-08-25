@@ -93,3 +93,4 @@ Nesta parte do treinamento iremos abordar os principais pontos relacionados à p
 * [Serviços gratuitos e Free Tier](/billing-pricing/free-services-and-free-tier.md)
 * [Resource Groups e Tags](/billing-pricing/resource-groups-and-tags.md)
 * [Organizações AWS](/billing-pricing/organizations.md)
+* [Calculadoras da AWS](/billing-pricing/aws-calculators.md)
