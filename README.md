@@ -94,3 +94,8 @@ Nesta parte do treinamento iremos abordar os principais pontos relacionados à p
 * [Resource Groups e Tags](/billing-pricing/resource-groups-and-tags.md)
 * [Organizações AWS](/billing-pricing/organizations.md)
 * [Calculadoras da AWS](/billing-pricing/aws-calculators.md)
+
+#### Fontes
+
+[Certificação AWS Certified Cloud Practitioner - Alura](https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner)
+
